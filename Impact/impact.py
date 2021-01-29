@@ -1,4 +1,4 @@
-print("Impact.Py - Copyright OblivionCreator 2021. This product is open source and must not be distributed without proper attribution, and may not be used for any commercial purposes.\nPlease enter the word you would like to convert to IMPACT.\nRequires Discord Nitro to use!")
+print("Impact.Py - Copyright OblivionCreator 2021. This product is open source and must not be distributed without proper attribution, and may not be used for any commercial purposes.\nRequires Discord Nitro to use!\nPlease enter the word you would like to convert to IMPACT.")
 word = input()
 chars = list(word)
 finalString = ""
