@@ -10,4 +10,4 @@ for c in chars:
     else:
         finalString = f"{finalString}{c}"
 
-print(finalString)
+print(f"Here\'s your impact text!\n{finalString}")
